@@ -1,2 +1,6 @@
 
 include::test2.adoc[]
+
+```diff
+- some red text
+```
