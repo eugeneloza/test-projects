@@ -1,3 +1,6 @@
+role:
+  red:
+    font-color: ff0000
 
 include::test2.adoc[]
 
