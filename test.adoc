@@ -5,4 +5,4 @@ include::test2.adoc[]
 - some red text
 ```
 
-[red] text
+[.red] text
