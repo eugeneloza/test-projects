@@ -9,3 +9,5 @@ include::test2.adoc[]
 ```
 
 [.red] text
+
+WARNING: warning
